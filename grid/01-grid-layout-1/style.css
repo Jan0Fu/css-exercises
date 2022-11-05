@@ -15,7 +15,8 @@ body, html {
       "header header"
       "sidebar nav"
       "sidebar article"
-      "footer footer"
+      "footer footer";
+  gap: 10px;
 }
 
 .container div {
